@@ -1,0 +1,7 @@
+C:\Users\alvin\source\repos\ExerciseWeek3_Alvin\ExerciseWeek3_Alvin\obj\Debug\ExerciseWeek3_Alvin.csprojAssemblyReference.cache
+C:\Users\alvin\source\repos\ExerciseWeek3_Alvin\ExerciseWeek3_Alvin\obj\Debug\ExerciseWeek3_Alvin.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\ExerciseWeek3_Alvin\ExerciseWeek3_Alvin\bin\Debug\ExerciseWeek3_Alvin.exe.config
+C:\Users\alvin\source\repos\ExerciseWeek3_Alvin\ExerciseWeek3_Alvin\bin\Debug\ExerciseWeek3_Alvin.exe
+C:\Users\alvin\source\repos\ExerciseWeek3_Alvin\ExerciseWeek3_Alvin\bin\Debug\ExerciseWeek3_Alvin.pdb
+C:\Users\alvin\source\repos\ExerciseWeek3_Alvin\ExerciseWeek3_Alvin\obj\Debug\ExerciseWeek3_Alvin.exe
+C:\Users\alvin\source\repos\ExerciseWeek3_Alvin\ExerciseWeek3_Alvin\obj\Debug\ExerciseWeek3_Alvin.pdb
